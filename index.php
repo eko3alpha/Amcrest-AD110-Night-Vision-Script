@@ -4,8 +4,8 @@
 define('TIMEZONE', "America/New_York");
 
 // Your lat/lng
-define('LAT', 34.2073);
-define('LNG', -84.1402);
+define('LAT', 33.7490);
+define('LNG', -84.3880);
 
 // Camera's IP on your local network
 define('IP_CAM', '192.168.1.100');

@@ -15,6 +15,8 @@ This script addresses an issue with the Amcrest AD110 that many people are havin
 
 [Video Doorbell AD110 Losing Connection at Night](https://amcrest.com/forum/amcrest-smart-home-f32/video-doorbell-ad110-losing-connection-at-night-t13712.html)
 
+[AD110 Doorbell Auto Night Vision Reboot](https://amcrest.com/forum/ip-cameras-f18/ad110-doorbell-auto-night-vision-reboot-t14774.html)
+
 ### Configuration
 
 Get a valid timezone value from [here](https://www.php.net/manual/en/timezones.php)

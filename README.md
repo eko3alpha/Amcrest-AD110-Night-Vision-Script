@@ -1,9 +1,11 @@
 # Amcrest AD110 Night Vision Script
 Automatically turn off/on night vision based on local sunrise/sunset times
 
+# !!! USE AT OWN RISK !!! 
+
 This script addresses an issue with the Amcrest AD110 that many people are having with Night Vision.  At night time, when Night Vision is set to Auto, the camera can get stuck in a reboot cycle if the lighting conditions are bright enough to toggle night vision. This seems to cause the camera to go into a reboot loop after toggling Night Vision a few times.  This doesn't happen if the Night Vision mode is set to on or off.  This script attempts to address this common problem by determining based on sunrise/sunset of your lat/lng if night vision should be enabled.
 
-# Amcrest Forum Discussions
+#  Amcrest Forum Discussions
 
 [AD110 Frequent Reconnects Reboots](https://amcrest.com/forum/ip-cameras-f18/ad110-frequent-reconnects-reboots-t13755.html)
 
